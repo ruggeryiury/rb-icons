@@ -1,11 +1,17 @@
+- [Disclaimer](#disclaimer)
 - [Folder Contents](#folder-contents)
 - [Vector Files](#vector-files)
   - [All Instrument Icons (Inline)](#all-instrument-icons-inline)
   - [Instrument Icons](#instrument-icons)
   - [Rock Band Logo (Compact)](#rock-band-logo-compact)
   - [Rock Band Logo (Inline)](#rock-band-logo-inline)
+  - [Rock Band Logo (Mini)](#rock-band-logo-mini)
   - [Rock Band 4 Stars](#rock-band-4-stars)
   - [Super Instruments Power-Ups](#super-instruments-power-ups)
+
+# Disclaimer
+
+This is a fan recreation of many Rock Band fanchise assets. All logos, assets, and the Rock Band logo are copyright from Harmonix Music Systems, Inc.
 
 # Folder Contents
 
@@ -46,18 +52,18 @@ The instrument icons used on the main franchise.
 
 ## Rock Band Logo (Compact)
 
-This file contains the compact version of the Rock Band logo for all main titles.
+Compact version of the Rock Band logo for all main titles.
 
 | IMAGE                                            | FILE NAME           | SIZE      | DESCRIPTION |
 |--------------------------------------------------|---------------------|-----------|-------------|
-| <img src="thumbnail/rb-logo-compact-rb1.webp" /> | rb-logo-compact-rb1 | 1500x1500 | Rock Band   |
-| <img src="thumbnail/rb-logo-compact-rb2.webp" /> | rb-logo-compact-rb2 | 1500x1500 | Rock Band 2 |
-| <img src="thumbnail/rb-logo-compact-rb3.webp" /> | rb-logo-compact-rb3 | 1500x1500 | Rock Band 3 |
-| <img src="thumbnail/rb-logo-compact-rb4.webp" /> | rb-logo-compact-rb4 | 1500x1500 | Rock Band 4 |
+| <img src="thumbnail/rb-logo-compact-rb1.webp" /> | rb-logo-compact-rb1 | 1500x1500 | Rock Band Logo: Compact   |
+| <img src="thumbnail/rb-logo-compact-rb2.webp" /> | rb-logo-compact-rb2 | 1500x1500 | Rock Band 2 Logo: Compact |
+| <img src="thumbnail/rb-logo-compact-rb3.webp" /> | rb-logo-compact-rb3 | 1500x1500 | Rock Band 3 Logo: Compact |
+| <img src="thumbnail/rb-logo-compact-rb4.webp" /> | rb-logo-compact-rb4 | 1500x1500 | Rock Band 4 Logo: Compact |
 
 ## Rock Band Logo (Inline)
 
-This file contains the inline version of the Rock Band logo for all main titles.
+Inline version of the Rock Band logo for all main titles.
 
 | IMAGE                                           | FILE NAME          | SIZE     | DESCRIPTION              |
 |-------------------------------------------------|--------------------|----------|--------------------------|
@@ -66,9 +72,18 @@ This file contains the inline version of the Rock Band logo for all main titles.
 | <img src="thumbnail/rb-logo-inline-rb3.webp" /> | rb-logo-inline-rb3 | 2000x600 | Rock Band 3 Logo: Inline |
 | <img src="thumbnail/rb-logo-inline-rb4.webp" /> | rb-logo-inline-rb4 | 2000x600 | Rock Band 4 Logo: Inline |
 
+## Rock Band Logo (Mini)
+
+Mini version of the Rock Band 2 and 3 logo.
+
+| IMAGE                                         | FILE NAME        | SIZE      | DESCRIPTION            |
+|-----------------------------------------------|------------------|-----------|------------------------|
+| <img src="thumbnail/rb-logo-mini-rb2.webp" /> | rb-logo-mini-rb2 | 1500x1500 | Rock Band 2 Logo: Mini |
+| <img src="thumbnail/rb-logo-mini-rb3.webp" /> | rb-logo-mini-rb3 | 1500x1500 | Rock Band 3 Logo: Mini |
+
 ## Rock Band 4 Stars
 
-This file contains stars icons used on Rock Band 4.
+Stars icons used on Rock Band 4.
 
 | IMAGE                                          | FILE NAME         | SIZE      | DESCRIPTION        |
 |------------------------------------------------|-------------------|-----------|--------------------|
@@ -78,7 +93,7 @@ This file contains stars icons used on Rock Band 4.
 
 ## Super Instruments Power-Ups
 
-This file contains instrument icons with a special gradient, used on Rock Band Blitz on Super Instrument power-ups.
+Instrument icons with a special gradient, used on Rock Band Blitz on Super Instrument power-ups.
 
 | IMAGE                                                 | FILE NAME                | SIZE      | DESCRIPTION      |
 |-------------------------------------------------------|--------------------------|-----------|------------------|
