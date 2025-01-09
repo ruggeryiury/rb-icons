@@ -1,10 +1,11 @@
 - [Folder Contents](#folder-contents)
-- [Vector File Contents](#vector-file-contents)
-  - [`all-instruments-icons-inline.ai`](#all-instruments-icons-inlineai)
-  - [`rb-logo-compact.ai`](#rb-logo-compactai)
-  - [`rb-logo-inline.ai`](#rb-logo-inlineai)
-  - [`rb4-stars.ai`](#rb4-starsai)
-  - [`super-instruments.ai`](#super-instrumentsai)
+- [Vector Files](#vector-files)
+  - [All Instrument Icons (Inline)](#all-instrument-icons-inline)
+  - [Instrument Icons](#instrument-icons)
+  - [Rock Band Logo (Compact)](#rock-band-logo-compact)
+  - [Rock Band Logo (Inline)](#rock-band-logo-inline)
+  - [Rock Band 4 Stars](#rock-band-4-stars)
+  - [Super Instruments Power-Ups](#super-instruments-power-ups)
 
 # Folder Contents
 
@@ -12,11 +13,11 @@
 - `thumbnail` - Icons thumbnail in WEBP format used on this README file to save bandwidth.
 - `vectors` - Folder with the original Adobe Illustrator files.
 
-# Vector File Contents
+# Vector Files
 
-## `all-instruments-icons-inline.ai`
+## All Instrument Icons (Inline)
 
-This file contains inline versions of the instrument icons, including different instrument positions based on each media.
+Inline versions of the instrument icons, including different instrument positions based on each media.
 
 | IMAGE                                                          | FILE NAME                         | SIZE     | DESCRIPTION                                                                              |
 |----------------------------------------------------------------|-----------------------------------|----------|------------------------------------------------------------------------------------------|
@@ -24,7 +25,26 @@ This file contains inline versions of the instrument icons, including different 
 | <img src="thumbnail/all-instrument-icons-inline-rbtp2.webp" /> | all-instrument-icons-inline-rbtp2 | 1300x300 | Icon order from RB2, RB Track Pack Vol. 2, Metal Pack, Country Pack, Rock Band iOS, etc. |
 | <img src="thumbnail/all-instrument-icons-inline-rb3.webp" />   | all-instrument-icons-inline-rb3   | 1300x300 | Icon order from RB3                                                                      |
 
-## `rb-logo-compact.ai`
+## Instrument Icons
+
+The instrument icons used on the main franchise.
+
+| IMAGE                                                   | FILE NAME                  | SIZE      | DESCRIPTION           |
+|---------------------------------------------------------|----------------------------|-----------|-----------------------|
+| <img src="thumbnail/instrument-icons-band.webp" />      | instrument-icons-band      | 1700x1700 | Band icon             |
+| <img src="thumbnail/instrument-icons-bass.webp" />      | instrument-icons-bass      | 1700x1700 | Bass icon             |
+| <img src="thumbnail/instrument-icons-drums.webp" />     | instrument-icons-drums     | 1700x1700 | Drums icon            |
+| <img src="thumbnail/instrument-icons-guitar.webp" />    | instrument-icons-guitar    | 1700x1700 | Guitar icon           |
+| <img src="thumbnail/instrument-icons-harm2.webp" />     | instrument-icons-harm2     | 1700x1700 | 2-Part Harmonies icon |
+| <img src="thumbnail/instrument-icons-harm3.webp" />     | instrument-icons-harm3     | 1700x1700 | 3-Part Harmonies icon |
+| <img src="thumbnail/instrument-icons-keys.webp" />      | instrument-icons-keys      | 1700x1700 | Keys icon             |
+| <img src="thumbnail/instrument-icons-probass.webp" />   | instrument-icons-probass   | 1700x1700 | PRO Bass icon         |
+| <img src="thumbnail/instrument-icons-prodrums.webp" />  | instrument-icons-prodrums  | 1700x1700 | PRO Drums icon        |
+| <img src="thumbnail/instrument-icons-proguitar.webp" /> | instrument-icons-proguitar | 1700x1700 | PRO Guitar icon       |
+| <img src="thumbnail/instrument-icons-prokeys.webp" />   | instrument-icons-prokeys   | 1700x1700 | PRO Keys icon         |
+| <img src="thumbnail/instrument-icons-vocals.webp" />    | instrument-icons-vocals    | 1700x1700 | Solo Vocals icon      |
+
+## Rock Band Logo (Compact)
 
 This file contains the compact version of the Rock Band logo for all main titles.
 
@@ -35,7 +55,7 @@ This file contains the compact version of the Rock Band logo for all main titles
 | <img src="thumbnail/rb-logo-compact-rb3.webp" /> | rb-logo-compact-rb3 | 1500x1500 | Rock Band 3 |
 | <img src="thumbnail/rb-logo-compact-rb4.webp" /> | rb-logo-compact-rb4 | 1500x1500 | Rock Band 4 |
 
-## `rb-logo-inline.ai`
+## Rock Band Logo (Inline)
 
 This file contains the inline version of the Rock Band logo for all main titles.
 
@@ -46,7 +66,7 @@ This file contains the inline version of the Rock Band logo for all main titles.
 | <img src="thumbnail/rb-logo-inline-rb3.webp" /> | rb-logo-inline-rb3 | 2000x600 | Rock Band 3 Logo: Inline |
 | <img src="thumbnail/rb-logo-inline-rb4.webp" /> | rb-logo-inline-rb4 | 2000x600 | Rock Band 4 Logo: Inline |
 
-## `rb4-stars.ai`
+## Rock Band 4 Stars
 
 This file contains stars icons used on Rock Band 4.
 
@@ -56,7 +76,7 @@ This file contains stars icons used on Rock Band 4.
 | <img src="thumbnail/rb4-stars-gold.webp" />    | rb4-stars-gold    | 2000x2000 | Gold star          |
 | <img src="thumbnail/rb4-stars-off.webp" />     | rb4-stars-off     | 2000x2000 | Default star (off) |
 
-## `super-instruments.ai`
+## Super Instruments Power-Ups
 
 This file contains instrument icons with a special gradient, used on Rock Band Blitz on Super Instrument power-ups.
 
