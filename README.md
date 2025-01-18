@@ -123,16 +123,14 @@ Instrument icons with a special gradient, used on Rock Band Blitz on Super Instr
 ## Rock Band 3
 
 | <img src="thumbnail/icon-rb3.webp" /> | <img src="thumbnail/icon-rb3-lime.webp" /> | <img src="thumbnail/icon-rb3-darkscarlet.webp" /> | <img src="thumbnail/icon-rb3-frame.webp" /> |
-|---------------------------------------|--------------------------------------------|---------------------------------------------------|---------------------------------------------|
+| ------------------------------------- | ------------------------------------------ | ------------------------------------------------- | ------------------------------------------- |
 | icon-rb3.png                          | icon-rb3-lime.png                          | icon-rb3-darkscarlet.png                          | icon-rb3-frame.png                          |
 
 ## LEGO Rock Band
 
-| <img src="thumbnail/icon-lego.webp" /> | <img src="thumbnail/icon-lego-2.webp" /> |
-|----------------------------------------|------------------------------------------|
-| icon-lego.png                          | icon-lego-2.png*                         |
-
-\* INCOMPLETE
+| <img src="thumbnail/icon-lego.webp" /> | <img src="thumbnail/icon-lego-instr-icons.webp" /> |
+| -------------------------------------- | -------------------------------------------------- |
+| icon-lego.png                          | icon-lego-instr-icons.png                          |
 
 ## Rock Band Network
 
