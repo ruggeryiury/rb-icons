@@ -110,15 +110,15 @@ Instrument icons with a special gradient, used on Rock Band Blitz on Super Instr
 
 ## Rock Band
 
-| <img src="thumbnail/icon-rb1.webp" /> | <img src="thumbnail/icon-rb1-frame.webp" /> |
-| ------------------------------------- | ------------------------------------------- |
-| icon-rb1.png                          | icon-rb1-frame.png                          |
+| <img src="thumbnail/icon-rb1.webp" /> | <img src="thumbnail/icon-rb1-red.webp" />   | <img src="thumbnail/icon-rb1-frame.webp" /> |
+| ------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| icon-rb1.png                          | icon-rb1-red.png                          | icon-rb1-frame.png                          |
 
 ## Rock Band 2
 
-| <img src="thumbnail/icon-rb2.webp" /> |
-| ------------------------------------- |
-| icon-rb2.png                          |
+| <img src="thumbnail/icon-rb2.webp" /> | <img src="thumbnail/icon-rb2-2.webp" /> |
+| ------------------------------------- | --------------------------------------- |
+| icon-rb2.png                          | icon-rb2-2.png                          |
 
 ## Rock Band 3
 
