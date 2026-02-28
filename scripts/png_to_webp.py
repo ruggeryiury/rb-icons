@@ -1,7 +1,9 @@
 import os
+from pathlib import Path
 from PIL import Image
 
 TARGET_SIZE = 256
+
 
 def convert_png_to_webp(png_root: str, webp_root: str) -> None:
     for dirpath, _, filenames in os.walk(png_root):
@@ -20,6 +22,9 @@ def convert_png_to_webp(png_root: str, webp_root: str) -> None:
                 webp_dir,
                 os.path.splitext(filename)[0] + ".webp"
             )
+
+            if Path(webp_path).exists():
+                continue
 
             try:
                 with Image.open(png_path) as img:
@@ -41,6 +46,7 @@ def convert_png_to_webp(png_root: str, webp_root: str) -> None:
             except Exception as e:
                 print(f"Failed to convert {png_path}: {e}")
 
+
 if __name__ == "__main__":
     # scripts/ → project root
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -52,4 +58,3 @@ if __name__ == "__main__":
     os.makedirs(webp_dir, exist_ok=True)
 
     convert_png_to_webp(png_dir, webp_dir)
-    

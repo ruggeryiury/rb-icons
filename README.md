@@ -54,11 +54,17 @@
 <img src='webp/instrument-icons-harm3.webp' style="margin-right:1rem" width='128px'>
 <img src='webp/instrument-icons-keys.webp' style="margin-right:1rem" width='128px'>
 <img src='webp/instrument-icons-probass.webp' style="margin-right:1rem" width='128px'>
-<img src='webp/instrument-icons-prodrums.webp' width='128px'>
-<img src='webp/instrument-icons-proguitar.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/instrument-icons-prodrums.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/instrument-icons-proguitar.webp'width='128px'>
 </div>
 
 <div style="display:flex;">
 <img src='webp/instrument-icons-prokeys.webp' style="margin-right:1rem" width='128px'>
-<img src='webp/instrument-icons-vocals.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/instrument-icons-vocals.webp' width='128px'>
+</div>
+
+# Rockshelf
+
+<div style="display:flex;">
+<img src='webp/rb3beta.webp' width='128px'>
 </div>
