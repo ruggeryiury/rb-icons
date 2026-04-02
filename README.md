@@ -71,6 +71,14 @@
 </div>
 <br />
 
+# Stars
+
+<div style="display:flex;">
+<img src='webp/rb4-stars.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/rb4-stars-out.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/rb4-stars-gold.webp' style="margin-right:1rem" width='128px'>
+</div>
+
 # Rockshelf
 
 <div style="display:flex;">
@@ -92,6 +100,14 @@
 <div style="display:flex;">
 <img src='webp/rbdlc9.webp' style="margin-right:1rem" width='128px'>
 <img src='webp/rbdlc10.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/rb3dlc1.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/rb3dlc2.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/rb3dlc3.webp' style="margin-right:1rem" width='128px'>
+</div>
+
+<div style="display:flex;">
+<img src='webp/rb3dlc4.webp' style="margin-right:1rem" width='128px'>
+<img src='webp/rb3dlc5.webp' style="margin-right:1rem" width='128px'>
 </div>
 <br />
 
